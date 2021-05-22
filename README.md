@@ -1,5 +1,5 @@
 # hair-checker
- O projeto foi desenvolvido na disciplina deep learning e utiliza redes neuras convolucionais para classificar tipos de cabelo.
+ O projeto foi desenvolvido na disciplina deep learning e utiliza redes neurais convolucionais para classificar tipos de cabelo. O projeto possibilita identificar o tipo de cabelo a partir dos frames retirados de um video.
 
 Alunos: 
 - Lucas Melo dos Santos - 180125885
