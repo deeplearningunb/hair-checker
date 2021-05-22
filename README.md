@@ -19,3 +19,8 @@ Uma rede Neural Convolucional é um algoritmo de aprendizado profundo que possib
 A função de ativação utilizada na camada de saída foi a sigmoid. Pois é uma função que retorna apenas números positivos, no intervalo de 0 a 1.E junto com a softmax, é uma das funções mais recomendadadas para classificações multiclasses.
 
 <img src='https://cdn.shortpixel.ai/spai/w_586+q_+ret_img+to_webp/https://mk0iaexpertacadlbryk.kinstacdn.com/wp-content/uploads/2020/05/image-5.png'>
+
+## Futuras melhorias
+- melhorar o dataset com o aumento de imagens 
+- criar um app que identifica o tipo de cabelo utilizando o modelo
+- adicionar novas classes para identificar outros tipos de cabelo
